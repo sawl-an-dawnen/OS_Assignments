@@ -1,0 +1,40 @@
+PRINTING INFO FOR PROCESS 0:
+Pipes I can read from: 13 
+Pipes I will write to: 0 
+
+PRINTING INFO FOR PROCESS 1:
+Pipes I can read from: 14 
+Pipes I will write to: 1 2 
+
+PRINTING INFO FOR PROCESS 2:
+Pipes I can read from: 4 5 6 
+Pipes I will write to: 3 
+
+PRINTING INFO FOR PROCESS 3:
+Pipes I can read from: 0 1 9 
+Pipes I will write to: 4 
+
+PRINTING INFO FOR PROCESS 4:
+Pipes I can read from: 2 10 
+Pipes I will write to: 5 
+
+PRINTING INFO FOR PROCESS 5:
+Pipes I can read from: 11 12 
+Pipes I will write to: 6 7 
+
+PRINTING INFO FOR PROCESS 6:
+Pipes I can read from: 7 
+Pipes I will write to: 8 
+
+PRINTING INFO FOR PROCESS 7:
+Pipes I can read from: 3 8 
+Pipes I will write to: 17 
+
+PRINTING INFO FOR PROCESS 8:
+Pipes I can read from: 15 
+Pipes I will write to: 9 10 11 
+
+PRINTING INFO FOR PROCESS 9:
+Pipes I can read from: 16 
+Pipes I will write to: 12 
+

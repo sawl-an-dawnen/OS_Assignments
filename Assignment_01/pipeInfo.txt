@@ -1,0 +1,108 @@
+PRINTING INFO FOR PIPE 0:
+vertex: 0
+destination: 3
+pipe read side: 9
+pipe write side: 10
+
+PRINTING INFO FOR PIPE 1:
+vertex: 1
+destination: 3
+pipe read side: 11
+pipe write side: 12
+
+PRINTING INFO FOR PIPE 2:
+vertex: 1
+destination: 4
+pipe read side: 13
+pipe write side: 14
+
+PRINTING INFO FOR PIPE 3:
+vertex: 2
+destination: 7
+pipe read side: 15
+pipe write side: 16
+
+PRINTING INFO FOR PIPE 4:
+vertex: 3
+destination: 2
+pipe read side: 17
+pipe write side: 18
+
+PRINTING INFO FOR PIPE 5:
+vertex: 4
+destination: 2
+pipe read side: 19
+pipe write side: 20
+
+PRINTING INFO FOR PIPE 6:
+vertex: 5
+destination: 2
+pipe read side: 21
+pipe write side: 22
+
+PRINTING INFO FOR PIPE 7:
+vertex: 5
+destination: 6
+pipe read side: 23
+pipe write side: 24
+
+PRINTING INFO FOR PIPE 8:
+vertex: 6
+destination: 7
+pipe read side: 25
+pipe write side: 26
+
+PRINTING INFO FOR PIPE 9:
+vertex: 8
+destination: 3
+pipe read side: 27
+pipe write side: 28
+
+PRINTING INFO FOR PIPE 10:
+vertex: 8
+destination: 4
+pipe read side: 29
+pipe write side: 30
+
+PRINTING INFO FOR PIPE 11:
+vertex: 8
+destination: 5
+pipe read side: 31
+pipe write side: 32
+
+PRINTING INFO FOR PIPE 12:
+vertex: 9
+destination: 5
+pipe read side: 33
+pipe write side: 34
+
+PRINTING INFO FOR PIPE 13:
+vertex: -1
+destination: 0
+pipe read side: 35
+pipe write side: 36
+
+PRINTING INFO FOR PIPE 14:
+vertex: -1
+destination: 1
+pipe read side: 37
+pipe write side: 38
+
+PRINTING INFO FOR PIPE 15:
+vertex: -1
+destination: 8
+pipe read side: 39
+pipe write side: 40
+
+PRINTING INFO FOR PIPE 16:
+vertex: -1
+destination: 9
+pipe read side: 41
+pipe write side: 42
+
+PRINTING INFO FOR PIPE 17:
+vertex: 7
+destination: -2
+pipe read side: 43
+pipe write side: 44
+
