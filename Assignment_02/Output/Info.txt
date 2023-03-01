@@ -1,0 +1,90 @@
+r: 3
+p: 3
+
+---matrix info---
+
+available info: 
+3 3 3 
+resource 0 type: Hotel
+resource 0 has 3 instances: Hilton Marriott Omni 
+
+resource 1 type: fruit
+resource 1 has 3 instances: orange mango pear 
+
+resource 2 type: car
+resource 2 has 3 instances: Ford Mercedes BM 
+
+max info:
+maximum demand for resource 0 by process 0: 2
+maximum demand for resource 1 by process 0: 3
+maximum demand for resource 2 by process 0: 3
+maximum demand for resource 0 by process 1: 2
+maximum demand for resource 1 by process 1: 2
+maximum demand for resource 2 by process 1: 2
+maximum demand for resource 0 by process 2: 3
+maximum demand for resource 1 by process 2: 3
+maximum demand for resource 2 by process 2: 3
+
+---process definition and instructions---
+
+process_1:
+deadline: 40
+computation time: 15
+
+request(1,0,0);
+use_resources(1);
+request(0,2,0);
+use_resources(1);
+request(0,0,1);
+use_resources(1);
+request(0,0,1);
+use_resources(1);
+request(0,0,1);
+request(0,1,0);
+use_resources(1);
+request(1,0,0);
+use_resources(1);
+release(2,3,3);
+print_resources_used; 
+end.
+
+---------------------
+
+process_2:
+deadline: 30
+computation time: 11
+
+request(0,0,1);
+use_resources(3);
+print_resources_used; 
+use_resources(1);
+request(1,1,0);
+use_resources(2);
+release(2,2,2);
+print_resources_used; 
+end.
+
+---------------------
+
+process_3:
+deadline: 40
+computation time: 15
+
+request(1,0,0);
+use_resources(1);
+request(0,2,1);
+print_resources_used; 
+request(0,0,1);
+use_resources(1);
+request(0,0,1);
+print_resources_used; 
+request(0,1,0);
+use_resources(1);
+request(2,0,0);
+use_resources(1);
+release(3,3,3);
+print_resources_used; 
+end.
+
+---------------------
+
